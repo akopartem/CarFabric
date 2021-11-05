@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"xyz.akopartem.car","l":"Car"},{"p":"xyz.akopartem.car","l":"CarColor"},{"p":"xyz.akopartem.car","l":"Condition"},{"p":"xyz.akopartem.car","l":"FuelType"},{"p":"xyz.akopartem.car","l":"Side"}];updateSearchResults();
